@@ -1,8 +1,5 @@
-# Disperse NFT Frontend
+# Multisend NFT Frontend
 
-This is a frontend for https://github.com/fafrd/disperse-nft-contract
-
-### View the website: https://fafrd.github.io/disperse-nft-web/
 
 ## Developing
 
